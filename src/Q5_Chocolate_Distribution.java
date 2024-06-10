@@ -1,14 +1,12 @@
 import java.util.Arrays;
 
 public class Q5_Chocolate_Distribution {
-    public Q5_Chocolate_Distribution() {
-    }
 
     static void check1(int[] arr, int m) {
         Arrays.sort(arr);
         int min = Integer.MAX_VALUE;
 
-        for(int i = 0; i < arr.length - m + 1; ++i) {
+        for(int i = 0; i < arr.length - m + 1; i++) {
             int diff = arr[i + m - 1] - arr[i];
             if (min > diff) {
                 min = diff;
@@ -22,7 +20,7 @@ public class Q5_Chocolate_Distribution {
         Arrays.sort(n);
         int min_diff = Integer.MAX_VALUE;
 
-        for(int i = 0; i < n.length; ++i) {
+        for(int i = 0; i < n.length; i++) {
             int nextwindow = i + m - 1;
             if (nextwindow >= n.length) {
                 break;

@@ -1,13 +1,10 @@
 import java.util.Arrays;
 
 public class Q4_Contains_Duplicate {
-    public Q4_Contains_Duplicate() {
-    }
-
     public static boolean containsDuplicate(int[] nums) {
         Arrays.sort(nums);
 
-        for(int i = 0; i < nums.length - 1; ++i) {
+        for(int i = 0; i < nums.length - 1; i++) {
             if (nums[i] == nums[i + 1]) {
                 return true;
             }

@@ -3,7 +3,7 @@ public class Q6_Search_in_Array {
     }
 
     static int search(int[] nums, int target) {
-        for(int i = 0; i < nums.length; ++i) {
+        for(int i = 0; i < nums.length; i++) {
             if (nums[i] == target) {
                 return i;
             }

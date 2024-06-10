@@ -1,12 +1,10 @@
 public class Q3_Array_Sum$KadaneAlgo {
-    public Q3_Array_Sum$KadaneAlgo() {
-    }
 
     public static int maxSubArray(int[] nums) {
         int max = nums[0];
         int cur_sum = 0;
 
-        for(int i = 0; i < nums.length; ++i) {
+        for(int i = 0; i < nums.length; i++) {
             cur_sum += nums[i];
             if (max < cur_sum) {
                 max = cur_sum;

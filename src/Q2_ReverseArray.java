@@ -3,7 +3,7 @@ public class Q2_ReverseArray {
     }
 
     static void print(int[] n) {
-        for(int i = 0; i < n.length; ++i) {
+        for(int i = 0; i < n.length; i++) {
             System.out.print(n[i] + " ");
         }
 
@@ -13,7 +13,7 @@ public class Q2_ReverseArray {
     static void reverse(int[] arr) {
         int[] new_arr = new int[arr.length];
 
-        for(int i = 0; i < arr.length; ++i) {
+        for(int i = 0; i < arr.length; i++) {
             new_arr[i] = arr[arr.length - i - 1];
         }
 
@@ -23,11 +23,11 @@ public class Q2_ReverseArray {
     static void reverse_2(int[] arr) {
         int i = 0;
 
-        for(int j = arr.length - 1; i < j; --j) {
+        for(int j = arr.length - 1; i < j; j--) {
             int temp = arr[i];
             arr[i] = arr[j];
             arr[j] = temp;
-            ++i;
+            i++;
         }
 
         print(arr);

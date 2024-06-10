@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a91abf88-5cb7-4252-b080-283954809213" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures_and_Algorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q1_Min_Max_Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q2_ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q3_Array_Sum$KadaneAlgo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q4_Contains_Duplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q5_Chocolate_Distribution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q6_Search_in_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q2_ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q2_ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q3_Array_Sum$KadaneAlgo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q3_Array_Sum$KadaneAlgo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q4_Contains_Duplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q4_Contains_Duplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q5_Chocolate_Distribution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q5_Chocolate_Distribution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q6_Search_in_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q6_Search_in_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q7_Next_Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q7_Next_Permutation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "thegautamharshit"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/thegautamharshit/DSAsheet.git",
+    "accountId": "77b5aa2e-f343-406c-931c-cc477ba37ad3"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -41,15 +51,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Q2_ReverseArray.executor": "Run",
+    "Application.Q3_Array_Sum$KadaneAlgo.executor": "Run",
+    "Application.Q4_Contains_Duplicate.executor": "Run",
+    "Application.Q5_Chocolate_Distribution.executor": "Run",
+    "Application.Q6_Search_in_Array.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
