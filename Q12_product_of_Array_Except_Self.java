@@ -1,7 +1,7 @@
 public class Q12_product_of_Array_Except_Self {
 
     public static void main(String[] args) {
-        int [] nums = {1,2,3,4};
+        // int [] nums = {1,2,3,4};
         int [] nums2 = {-1,1,0,-3,3};
 
         int [] x = productExceptSelf(nums2);
